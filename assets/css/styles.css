@@ -1,0 +1,42 @@
+.navmedplus{
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+}
+
+.addmed{
+     text-decoration: none !important;
+}
+.addmedcenterdiv{
+  text-align: center;
+}
+.addmed-h1{
+    margin: 3rem;
+}
+.addmedSubmit{
+  margin-top: 1rem;
+  margin-left:10rem;
+}
+
+
+.placeorder{
+  align-content: center;
+}
+.placeOrder-h1{
+  text-align: center;
+  margin: 2rem auto;
+}
+.plaeordertitle{
+  font-weight: 600;
+}
+.placeordercard{
+  width:80%;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom: 1.5rem;
+}
+.placeorderh5{
+  color:white;
+}
+.placeorderbtn{
+  text-align: center;
+}
